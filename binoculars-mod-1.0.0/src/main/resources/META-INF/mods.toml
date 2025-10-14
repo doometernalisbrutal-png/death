@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL=""
+[[mods]]
+modId="binoculars"
+version="1.0.0"
+displayName="Binoculars"
+description='A mod that adds binoculars with zoom, lock-on glow, instant-kill death-ray, and preventing natural respawns of banned mobs.'
+authors="Generated"
